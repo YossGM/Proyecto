@@ -1,0 +1,28 @@
+﻿  Proyecto.cpp
+D:\Lizeth\proyecto\Proyecto\Proyecto\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(504,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1006,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1007,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1015,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1016,20): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1021,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1022,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1038,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1057,24): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1058,24): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1063,24): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1064,24): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1080,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1157,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1158,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1162,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1163,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1165,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Lizeth\proyecto\Proyecto\Proyecto\Proyecto.cpp(1166,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'D:\Lizeth\proyecto\Proyecto\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'D:\Lizeth\proyecto\Proyecto\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'D:\Lizeth\proyecto\Proyecto\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Proyecto.vcxproj -> D:\Lizeth\proyecto\Proyecto\Debug\Proyecto.exe
